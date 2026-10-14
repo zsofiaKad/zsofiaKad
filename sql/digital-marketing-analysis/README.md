@@ -10,13 +10,13 @@ The course focuses on using MySQL for managing and analyzing relational database
 > **Platform:** LinkedIn Learning  
 > **Original Course by:** Maven Analytics  
 
-## 🎯 My Personal Objectives  
+## My Personal Objectives  
 
-1. Practice, practice, and practice 🤓  
+1. Practice, practice, and practice.  
 2. Deepen my understanding of advanced SQL concepts.  
 3. Explore real-world applications in digital marketing analytics.  
 
-## ✨ Topics Covered  
+## Topics Covered  
 
 ### **1. Traffic Source Analysis**  
 - **UTM Parameters and Traffic Attribution**: Using UTM parameters to track paid traffic sources and campaigns.  
@@ -73,7 +73,7 @@ The course focuses on using MySQL for managing and analyzing relational database
 - **Product Website Pathing**: Analyzing session paths and conversion funnels for multi-product showcase pages.  
 - **Impact of New Products on Conversion Rates**: Understanding how new products influence overall website performance.  
 
-## 🌟 My Journey  
+## My Journey  
 
 Stepping into the world of data has been my dream, and I realized early on that mastering SQL is a key tool to make it happen. To change my career path, I’ve fully embraced active learning and development, focusing on gaining experience and expanding my knowledge.  
 
