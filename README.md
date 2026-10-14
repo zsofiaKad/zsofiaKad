@@ -45,7 +45,7 @@ Proyecto final de máster (PontIA)
 
 **Stack:** Python, Pandas, Web Scraping, Power BI  
 
-🔗 [Ver proyecto Jupiter](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/01.%20Master's%20final%20project)
+🔗 [Ver proyecto Jupiter](./master-final-project)
 
 <img src="png/divider.png" width="500"/> 
 
@@ -59,7 +59,7 @@ Caso basado en entorno real profesional (**datos anonimizados**)
 
 **Stack:** Snowflake, SQL, Power BI  
 
-🔗 [Ver proyecto Sales & Cancellations Analysis](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/04.%20Power%20BI/Sales%20performance)
+🔗 [Ver proyecto Sales & Cancellations Analysis](./power-bi/excursion-sales-cancellation)
 
 <img src="png/divider.png" width="500"/> 
 
@@ -71,7 +71,7 @@ Caso basado en entorno real profesional (**datos anonimizados**)
 
 **Stack:** Python, Pandas, EDA  
 
-🔗 [Ver proyecto EDA](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/02.%20Python/Python%20Challange%20EDA)
+🔗 [Ver proyecto EDA](./python/eda-kpop-world-connect)
 
 <img src="png/divider.png" width="500"/> 
 
@@ -83,7 +83,7 @@ Caso basado en entorno real profesional (**datos anonimizados**)
 
 **Stack:** SQL (MySQL)  
 
-🔗 [Ver proyecto Digital Marketing](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/03.%20SQL/Digital_Marketing_Analysis_Advanced_SQL)
+🔗 [Ver proyecto Digital Marketing](./sql/digital-marketing-analysis)
 
 <br>
 
